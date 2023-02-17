@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283631276971",
+    "project_id": "ombrelive-967a6",
+    "storage_bucket": "ombrelive-967a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283631276971:android:1051549b3e5f4c39b138ee",
+        "android_client_info": {
+          "package_name": "com.nikhilchourase.ombrelive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283631276971-g479d2k7uaiiqibc7dcp341nf8ralo0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjvGuY5BoEYgLA5CUr66wc_kx23rH0syk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283631276971-g479d2k7uaiiqibc7dcp341nf8ralo0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
